@@ -2,7 +2,7 @@
 """
 This is a Python implementation of the fast algorithm developed by
 Vincent Mazet and Nicolas Chopin
-(see http://miv.u-strasbg.fr/mazet/rtnorm/rtnorm-en.htm).
+(see http://miv.u-strasbg.fr/mazet/rtnorm/).
 The version this code is based on is the Matlab implementation from 2012.
 
 Created on Mon Aug 12 13:48:22 2013
